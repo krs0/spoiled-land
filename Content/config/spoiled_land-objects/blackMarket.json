@@ -1,36 +1,21 @@
 {
 	"core:blackMarket": {
-
 		"types": {
 			"spoiledLandBlackMarket01": {
-
 				"rmg": {
 					"zoneLimit" : 1,
 					"value" : 100,
 					"rarity" : 100
 				},
 				"templates": {
-
-	
 					"AVXMKTB3": {
 						"animation" : "spoiled_land-objects/blackMarket/AVXMKTB3",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "BBA"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}						
-
-
 				}
 			}
-
-
-
 		}
 	}
-
-
-
 }

@@ -1,6 +1,5 @@
 {
 	"core:tradingPost": {
-
 		"types": {
 			"spoiledLandTradingPost01": {
 				"name" : "Trading Post",
@@ -10,22 +9,14 @@
 					"rarity" : 100
 				},
 				"templates": {
-
 					"AVXpost0": {
 						"animation" : "spoiled_land-objects/tradingPost/AVXpost0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "VBA"],
-
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}
-
 		}
 	}
-
-
-
 }

@@ -1,9 +1,7 @@
 {
 	"core:abandonedMine": {
-
 		"types": {
 			"spoiledLandAbandonedMine01": {
-
 				"rmg": {
 					"zoneLimit" : 1,
 					"value" : 100,
@@ -15,15 +13,8 @@
 						"animation" : "spoiled_land-objects/abandonedMine/AVXamLV",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV","VVVV", "VBAB"],
-
-						"allowedTerrains": [
-
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
-
-					
 				}
 			}
 		}

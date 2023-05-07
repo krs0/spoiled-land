@@ -1,6 +1,5 @@
 {
 	"core:seerHut": {
-
 		"types": {
 			"spoiledLandSeerHut01": {
 				"name" : "Seer Hut",
@@ -10,26 +9,14 @@
 					"rarity" : 100
 				},
 				"templates": {
-
-
 					"FALF0197": {
 						"animation" : "spoiled_land-objects/seerHut/FALF0197",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
-
-
-
 				}
 			}
-
-
-
 		}
 	}
 }

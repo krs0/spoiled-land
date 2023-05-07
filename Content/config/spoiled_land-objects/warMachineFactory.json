@@ -20,11 +20,8 @@
 							"VVV",
 							"VAB"
 						],
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
 				}
 			}
 		}

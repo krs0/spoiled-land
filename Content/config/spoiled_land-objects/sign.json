@@ -3,7 +3,6 @@
 		"types": {
 			"spoiledLandSign01": {
 				"templates": {
-
 					"FALF0174": {
 						"animation" : "spoiled_land-objects/sign/FALF0174",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -22,8 +21,6 @@
 						"mask": ["VA"],
 						"allowedTerrains": ["spoiledLand"]
 					}
-
-
 				}
 			}
 		}

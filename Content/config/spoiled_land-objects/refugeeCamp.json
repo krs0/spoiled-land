@@ -1,9 +1,7 @@
 {
 	"core:refugeeCamp": {
-
 		"types": {
 			"spoiledLandRefugeeCamp01": {
-
 				"name" : "Refugee Camp",
 				"rmg": {
 					"zoneLimit" : 1,
@@ -11,23 +9,14 @@
 					"rarity" : 60
 				},
 				"templates": {
-
-
-"AVGrefg0": {
+					"AVGrefg0": {
 						"animation" : "spoiled_land-objects/refugeeCamp/AVGrefg0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}
-
 		}
 	}
-
-
-
 }

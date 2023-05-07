@@ -1,6 +1,5 @@
 {
 	"core:marlettoTower": {
-
 		"types": {
 			"spoiledLandMarlettoTower01": {
 				"name" : "Marletto Tower",
@@ -10,39 +9,14 @@
 					"zoneLimit" : 3
 				},
 				"templates": {
- 
 					"OBJ4445": {
 						"animation" : "spoiled_land-objects/marlettoTower/OBJ4445",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVB", "VVV", "VAB"],
-
-						"allowedTerrains": [
-							"spoiledLand" 
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
- 
-
 				}
 			}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		}
 	}
-
-
-
 }

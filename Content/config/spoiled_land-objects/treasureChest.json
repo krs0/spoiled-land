@@ -1,7 +1,6 @@
 {
 	"core:treasureChest": {
 		"types": {
-
 			"spoiledLandTreasureChest01": {
 				"rmg": {
 					"value" : 1500,
@@ -9,31 +8,21 @@
 				},
 				"name" : "Treasure Chest",
 				"templates": {
-	
 					"FTRBC003": {
 						"animation" : "spoiled_land-objects/treasureChest/FTRBC003",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
-
 					"FTRBC008": {
 						"animation" : "spoiled_land-objects/treasureChest/FTRBC008",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BA"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-	
-				
-
 				}
 			}
 		}
-} }
+	}
+}
 	

@@ -1,6 +1,5 @@
 {
 	"core:eyeOfTheMagi": {
-
 		"types": {
 			"spoiledLandEyeOfTheMagi01": {
 				"name" : "Eye Of The Magi",
@@ -10,29 +9,14 @@
 					"rarity" : 50
 				},
 				"templates": {
-
-
 					"FALF0188": {
 						"animation" : "spoiled_land-objects/eyeOfTheMagi/FALF0188",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VB"],
-
-						"allowedTerrains": [
-
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
 				}
 			}
-
-
-
-
-
 		}
 	}
-
-
-
 }

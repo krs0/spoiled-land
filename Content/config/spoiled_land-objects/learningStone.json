@@ -1,6 +1,5 @@
 {
 	"core:learningStone": {
-
 		"types": {
 			"spoiledLandLearningStone01": {
 				"name" : "Learning Stone",
@@ -9,20 +8,13 @@
 					"rarity" : 200
 				},
 				"templates": {
-
 					"FALF0248": {
 						"animation" : "spoiled_land-objects/learningStone/FALF0248",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VA"],
-
-						"allowedTerrains": [
-							 "spoiledLand"
-
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}					
-	
 				}
-
 			}
 		}
 	}

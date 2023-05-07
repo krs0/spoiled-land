@@ -1,6 +1,5 @@
 {
 	"core:cartographer": {
-
 		"types": {
 			"spoiledLandCartographer01": {
 				"name" : "Cartographer",
@@ -10,25 +9,14 @@
 					"rarity" : 20
 				},
 				"templates": {
-
 					"FSUF0001": {
 						"animation" : "spoiled_land-objects/cartographer/FSUF0001",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "ABB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
-
-
 				}
 			}
-
 		}
 	}
-
-
-
 }

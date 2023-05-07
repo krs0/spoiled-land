@@ -1,6 +1,5 @@
 {
 	"core:lighthouse": {
-
 		"types": {
 			"spoiledLandLighthouse01New": {
 				"name" : "Lighthouse",
@@ -10,24 +9,14 @@
 					"rarity" : 60
 				},
 				"templates": {
-
- 
 					"wfAVXlths0": {
 						"animation" : "spoiled_land-objects/lighthouse/AVXlths0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV","VV","VV", "VA"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-
 				}
 			}
-	 
+		}
 	}
-
-
-
-}
 }

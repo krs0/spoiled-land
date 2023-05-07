@@ -1,9 +1,7 @@
 {
 	"core:hillFort": {
-
 		"types": {
 			"spoiledLandHillFort1": {
-
 				"name" : "Hill Fort",
 				"rmg": {
 					"zoneLimit" : 1,
@@ -11,25 +9,14 @@
 					"rarity" : 20
 				},
 				"templates": {
-	 
-
 					"ZZMM3": {
 						"animation" : "spoiled_land-objects/hillfort/ZZMM3",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VBB", "VBA"],
 						"allowedTerrains": ["spoiledLand"]
 					}
-
-
 				}
-
 			}
-	 
 		}
-
-
 	}
-
-
-
 }

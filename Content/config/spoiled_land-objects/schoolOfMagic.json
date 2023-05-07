@@ -1,33 +1,20 @@
 {
 	"core:schoolOfMagic": {
-
 		"types": {
 			"spoiledLandSchoolOfMagic01": {
-
 				"rmg": {
 					"value" : 1000,
 					"rarity" : 50,
 					"zoneLimit" : 1
-
 				},
 				"templates": {
-
-	
-										"FALF0246": {
+					"FALF0246": {
 						"animation" : "spoiled_land-objects/schoolOfMagic/FALF0246",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VV", "VA"],
-						"allowedTerrains":[
-"spoiledLand"
-
-]
+						"allowedTerrains":["spoiledLand"]
 					}
-
-
-
-
 				}
-
 			}
 		}
 	}

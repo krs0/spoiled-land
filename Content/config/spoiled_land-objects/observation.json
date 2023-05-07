@@ -1,6 +1,5 @@
 {
 	"core:redwoodObservatory": {
-
 		"types": {
 			"spoiledLandObservation01": {
 				"name" : "Watch Tower",
@@ -10,30 +9,14 @@
 					"rarity" : 300
 				},
 				"templates": {
-
-	
 					"FALF0104": {
 						"animation" : "spoiled_land-objects/observation/FALF0104",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VVVV", "VVBV", "VVAV"],
-
-						"allowedTerrains": [
-
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
-	
 				}
 			}
-
-
-
-
-
-
 		}
 	}
-
-
-
 }
