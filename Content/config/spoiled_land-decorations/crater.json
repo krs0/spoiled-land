@@ -1,6 +1,5 @@
 {
 	"core:crater": {
-
 		"types": {
 			"spoiledLandCrater01": {
 				"name" : "Crater",
@@ -21,11 +20,7 @@
 						]
 					}
 				}
-	
-
-
-
+			}
 		}
 	}
-}
 }

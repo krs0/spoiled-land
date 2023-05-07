@@ -1,6 +1,5 @@
 {
 	"core:deadVegetation": {
-
 		"types": {
 			"spoiledLandTree01": {
 				"name" : "Dead Tree",
@@ -10,7 +9,6 @@
 					"rarity" : 100
 				},
 				"templates": {
-
 					"AVLDEAD0": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD0",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -47,17 +45,16 @@
 							"spoiledLand"
 						]
 					}
-					
 				}
 			}
-	} },
-	  	  "spoiledLand-spoiledLandTrees02": {
-	"handler" : "static",
-"name" : "Dead Trees",
-	"types":
-	{	
-
-	"spoiledLandTrees02": {
+		}
+	},
+	"spoiledLand-spoiledLandTrees02": {
+		"handler" : "static",
+		"name" : "Dead Trees",
+		"types":
+		{	
+			"spoiledLandTrees02": {
 				"name" : "Dead Trees",
 				"rmg": {
 					"zoneLimit" : 12,
@@ -65,7 +62,6 @@
 					"rarity" : 100
 				},
 				"templates": {
-
 					"AVLDEAD2": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD2",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -122,10 +118,6 @@
 					}				
 				}
 			}
-
-
 		}
-
-
 	}
 }

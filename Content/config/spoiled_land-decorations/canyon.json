@@ -1,9 +1,9 @@
 {
-	  	  "spoiledLand-spoiledLandCanyon01": {
-	"handler" : "static",
-"name" : "Rift",
-	"types":
-	{
+	"spoiledLand-spoiledLandCanyon01": {
+		"handler" : "static",
+		"name" : "Rift",
+		"types":
+		{
 			"spoiledLandCanyon01": {
 				"name" : "Rift",
 				"rmg": {
@@ -141,6 +141,6 @@
 					}					
 				}
 			}
+		}
 	}
-}
 }

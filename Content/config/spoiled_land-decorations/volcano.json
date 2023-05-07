@@ -1,6 +1,5 @@
 {
 	"core:volcano": {
-
 		"types": {
 			"spoiledLandVolcano01": {
 				"name" : "Volcano",
@@ -10,7 +9,6 @@
 					"rarity" : 100
 				},
 				"templates": {
-
 					"AVLvol10": {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol10",
 						"visitableFrom": ["---", "+++", "+++"],
@@ -56,11 +54,7 @@
 							"spoiledLand"
 						]
 					}
-
-
 				}
-
-
 			}
 		}
 	}

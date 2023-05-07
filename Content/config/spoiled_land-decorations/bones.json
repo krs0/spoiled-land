@@ -1,9 +1,9 @@
 {
-	  	  "spoiledLand-spoiledLandSkull01": {
-	"handler" : "static",
-"name" : "Bones",
-	"types":
-	{
+	"spoiledLand-spoiledLandSkull01": {
+		"handler" : "static",
+		"name" : "Bones",
+		"types":
+		{
 			"spoiledLandSkull01": {
 				"name" : "Bones",
 				"rmg": {
@@ -17,53 +17,38 @@
 						"animation" : "spoiled_land-decorations/bones/AVLbon00",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VB"],
-
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLbon01": {
 						"animation" : "spoiled_land-decorations/bones/AVLbon01",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},					
 					"AVLbon02": {
 						"animation" : "spoiled_land-decorations/bones/AVLbon02",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},											
 					"AVLbon03": {
 						"animation" : "spoiled_land-decorations/bones/AVLbon03",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVVV","VBBBV","VVVVV"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},		
 					"jaws": {
 						"animation" : "spoiled_land-decorations/bones/jaws",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}						
 				}
-
-
 			},
-			
-			
 			"spoiledLandSkull02": {
 				"name" : "Skull",
 				"rmg": {
@@ -72,39 +57,29 @@
 					"rarity" : 100
 				},
 				"templates": {
-
 					"AVLskul0": {
 						"animation" : "spoiled_land-decorations/bones/AVLskul0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLskul1": {
 						"animation" : "spoiled_land-decorations/bones/AVLskul1",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 					"AVLskul2": {
 						"animation" : "spoiled_land-decorations/bones/AVLskul2",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
 
-						"allowedTerrains": [
-"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}					
 				}
-
-
 			}			
-		
 		}
 	}
 }

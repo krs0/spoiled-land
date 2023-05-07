@@ -1,11 +1,8 @@
 {
 	"core:hole": {
-
- 
-	 
 		"types": {
 			"spoiledLandHole": {
-			//	"index" : 0,
+				//	"index" : 0,
 				"templates": {
 
 					"AVLholl0": {
@@ -18,18 +15,8 @@
 							"spoiledLand"
 						]
 					}
-
-
-
-
-
 				}
 			}
-
-
-
 		}
-
-
 	}
 }

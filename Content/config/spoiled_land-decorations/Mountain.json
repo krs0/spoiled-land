@@ -1,6 +1,5 @@
 {
 	"core:mountain": {
-
 		"types": {
 			"spoiledLandMountains01": {
 				"name" : "Mountains",
@@ -11,8 +10,8 @@
 				},
 				"templates": {
 
-					"AVLMTVO1": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO1",
+				"AVLMTVO1": {
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO1",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVVV", "BBBBV", "BBBBBB", "VVBBB"],
 
@@ -21,7 +20,7 @@
 						]
 					},
 				"AVLMTVO2": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO2",
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO2",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVVV", "VVBBB", "BBBBB", "BBBVV"],
 
@@ -30,7 +29,7 @@
 						]
 					},
 				"AVLMTVO3": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO3",
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO3",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "BBB","VBB"],
 
@@ -39,7 +38,7 @@
 						]
 					},
 				"AVLMTVO4": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO4",
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO4",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "BBB","BBV"],
 
@@ -48,7 +47,7 @@
 						]
 					},					
 				"AVLMTVO5": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO5",
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO5",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BBV", "VBB"],
 
@@ -57,7 +56,7 @@
 						]
 					},						
 				"AVLMTVO6": {
-						"animation" : "spoiled_land-decorations/mountains/AVLMTVO6",
+					"animation" : "spoiled_land-decorations/mountains/AVLMTVO6",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VBB", "BBV"],
 
@@ -65,10 +64,8 @@
 							"spoiledLand"
 						]
 					}						
-					
 				}
-			}
-
-
-			
-	} }}
+			}	
+		}
+	}
+}
