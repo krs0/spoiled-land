@@ -1,11 +1,10 @@
 {
     "spoiledLandToxicWaterRiver":
     {
- //       "originalRiverId" : 1,
-        "shortIdentifier" : "pw", //must be 2 characters
-        "tilesFilename" : "spoiled_land-decorations/lavaDelta/Lavrvr.def",
-       "delta" : "spoiled_land-decorations/lavaDelta/lavdelt",
-		"text" : "Toxic River"		
-    },
-  
+      // "originalRiverId" : 1,
+      "shortIdentifier" : "pw", //must be 2 characters
+      "tilesFilename" : "spoiled_land-decorations/lavaDelta/Lavrvr.def",
+      "delta" : "spoiled_land-decorations/lavaDelta/lavdelt",
+      "text" : "Toxic River"		
+    }
 }

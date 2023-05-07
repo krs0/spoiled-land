@@ -1,6 +1,4 @@
 {
-
-
 	 "spoiledLand" :
 	 {
 		 "text" : "Spoiled Land",
@@ -14,8 +12,8 @@
 		 "battleFields" : ["spoiled_land_back1"],
 		 "terrainViewPatterns" : "normal",
 		 "type":["LAND"],
-		"rockTerrain" : "rock",
-		 "horseSoundPenalty" : "",  "horseSound" : "",    //"horseSoundId" : 7
+		 "rockTerrain" : "rock",
+		 "horseSoundPenalty" : "",
+		 "horseSound" : ""    //"horseSoundId" : 7
 	 }
- 
 }
