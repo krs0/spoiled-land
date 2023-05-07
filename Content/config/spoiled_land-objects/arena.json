@@ -1,0 +1,35 @@
+{
+	"core:arena": {
+
+		"types": {
+			"spoiledLandArena01": {
+
+				"rmg": {
+					"zoneLimit" : 1,
+					"value" : 3000,
+					"rarity" : 50
+				},
+				"templates": {
+
+					"BlacDrAr": {
+						"animation" : "spoiled_land-objects/arena/BlacDrAr",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV","VBBB", "VBAB"],
+
+						"allowedTerrains": [
+							"spoiledLand"
+						]
+					}
+
+
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

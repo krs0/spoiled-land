@@ -1,0 +1,35 @@
+{
+	"core:hole": {
+
+ 
+	 
+		"types": {
+			"spoiledLandHole": {
+			//	"index" : 0,
+				"templates": {
+
+					"AVLholl0": {
+						"animation" : "spoiled_land-decorations/hole/AVLholl0",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["V"],
+						"zIndex":-1,
+
+						"allowedTerrains": [
+							"spoiledLand"
+						]
+					}
+
+
+
+
+
+				}
+			}
+
+
+
+		}
+
+
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"core:inferno" :
+	{
+//		"nativeTerrain" : "wasteland"
+		"nativeTerrain" : "spoiledLand"
+	}
+}

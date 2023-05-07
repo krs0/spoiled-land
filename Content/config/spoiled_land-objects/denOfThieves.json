@@ -1,0 +1,37 @@
+{
+	"core:denOfThieves": {
+
+		"types": {
+			"spoiledLandDenOfThieves01": {
+
+				"rmg": {
+					"value" : 100,
+					"rarity" : 100,
+					"zoneLimit" : 1
+				},
+				"templates": {
+
+ 
+
+					"FDIF0035": {
+						"animation" : "spoiled_land-objects/denOfThieves/FDIF0035",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+"spoiledLand"
+						]
+					}					
+					
+ 					
+				}
+			}
+
+
+
+		}
+	}
+
+
+
+}

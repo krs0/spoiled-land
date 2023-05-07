@@ -1,0 +1,8 @@
+{
+ 
+ 
+		"core:spoiled_land_back1": {
+			"isSpecial" : true,
+			"graphics":  "spoiled_land-battlefields/SpoiledLand1.bmp"}
+
+}

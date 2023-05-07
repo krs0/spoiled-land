@@ -1,0 +1,33 @@
+{
+	"core:wagon": {
+
+		"types": {
+			"spoiledLandWagon01": {
+				"name" : "Wagon",
+
+				"rmg": {
+					"zoneLimit" : 6,
+					"value" : 500,
+					"rarity" : 50
+				},
+				"templates": {
+
+					"FALF0215": {
+						"animation" : "spoiled_land-objects/wagon/FALF0215",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "BA"],
+
+						"allowedTerrains": [
+"spoiledLand"
+						]
+					}
+
+				}
+			}
+
+		}
+	}
+
+
+
+}

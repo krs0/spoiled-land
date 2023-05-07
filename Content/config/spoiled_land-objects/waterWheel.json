@@ -1,0 +1,33 @@
+{
+	"core:waterWheel": {
+
+		"types": {
+			"spoiledLandWaterWheel01": {
+				"name" : "Water Wheel",
+				"rmg": {
+					"zoneLimit" : 5,
+					"value" : 1000,
+					"rarity" : 90
+				},
+			//	"handler" : "bank",
+				"templates": {
+
+					"FGRF0003": {
+						"animation" : "spoiled_land-objects/waterWheel/FGRF0003",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVV", "BBB", "BBA"],
+
+						"allowedTerrains": [
+"spoiledLand"
+						]
+					}
+ 
+
+				}
+			}
+
+
+
+		}
+	}
+}
