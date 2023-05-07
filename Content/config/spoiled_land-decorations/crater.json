@@ -9,15 +9,11 @@
 					"rarity" : 150
 				},
 				"templates": {
-
 					"AVLctrl0": {
 						"animation" : "spoiled_land-decorations/craters/AVLctrl0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

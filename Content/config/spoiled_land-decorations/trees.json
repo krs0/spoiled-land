@@ -13,37 +13,25 @@
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD1": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD1",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 					"AVLDEAD8": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD8",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD9": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD9",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}
@@ -66,55 +54,37 @@
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD2",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VBBV","VVBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD3": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD3",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VVBB","VBBV"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD4": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD4",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VBBV","VVBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD5": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD5",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV", "VVBB","VBBV"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD6": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD6",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV","VBBV", "VBBB","VVBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLDEAD7": {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD7",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVV","VVBB", "VBBB","VBBV"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}				
 				}
 			}

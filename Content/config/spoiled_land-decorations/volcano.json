@@ -13,46 +13,31 @@
 						"animation" : "spoiled_land-decorations/volcano/AVLvol10",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLvol20": {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol20",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLvol30": {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol30",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "VVV", "BBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLvol40": {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol40",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVV", "BBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"AVLvol50": {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol50",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VVVVV","VVVVV","VVVVV","VBBBV", "VBBBV"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

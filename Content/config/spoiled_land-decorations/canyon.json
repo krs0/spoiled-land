@@ -12,132 +12,89 @@
 					"rarity" : 150
 				},
 				"templates": {
-
 					"avlc10l0": {
 						"animation" : "spoiled_land-decorations/canyons/avlc10l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"avlc11l0": {
 						"animation" : "spoiled_land-decorations/canyons/avlc11l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB","BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"avlc12l0": {
 						"animation" : "spoiled_land-decorations/canyons/avlc12l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 					"avlc13l0": {
 						"animation" : "spoiled_land-decorations/canyons/avlc13l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 						"avlc14l0": {
 						"animation" : "spoiled_land-decorations/canyons/avlc14l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},																						
 						"AVLct1l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct1l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BBBB","BBBB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 						"AVLct2l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct2l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB","BB","BB","BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 						"AVLct3l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct3l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB","BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 						"AVLct4l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct4l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB","BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},	
 						"AVLct5l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct5l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B","B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 						"AVLct6l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct6l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B","B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},
 						"AVLct7l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct7l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B","B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},					
 						"AVLct8l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct8l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["B","B"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					},						
 						"AVLct9l0": {
 						"animation" : "spoiled_land-decorations/canyons/AVLct9l0",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["BB"],
-
-						"allowedTerrains": [
-							"spoiledLand"
-						]
+						"allowedTerrains": ["spoiledLand"]
 					}					
 				}
 			}
