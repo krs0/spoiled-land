@@ -1,90 +1,89 @@
 {
-	"core:deadVegetation": {
-		"types": {
-			"spoiledLandTree01": {
+	"core:deadVegetation" : {
+		"types" : {
+			"spoiledLandTree01" : {
 				"name" : "Dead Tree",
-				"rmg": {
-					"zoneLimit" : 24,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 24
 				},
-				"templates": {
-					"AVLDEAD0": {
+				"templates" : {
+					"AVLDEAD0" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD1": {
+					"AVLDEAD1" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},	
-					"AVLDEAD8": {
+					"AVLDEAD8" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD8",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD9": {
+					"AVLDEAD9" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD9",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}
 		}
 	},
-	"spoiledLand-spoiledLandTrees02": {
-		"handler" : "static",
+	"spoiledLand-spoiledLandTrees02" : {
 		"name" : "Dead Trees",
-		"types":
-		{	
-			"spoiledLandTrees02": {
+		"handler" : "static",
+		"types" : {	
+			"spoiledLandTrees02" : {
 				"name" : "Dead Trees",
-				"rmg": {
-					"zoneLimit" : 12,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 12
 				},
-				"templates": {
-					"AVLDEAD2": {
+				"templates" : {
+					"AVLDEAD2" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VBBV","VVBB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV", "VBBV","VVBB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD3": {
+					"AVLDEAD3" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD3",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VVBB","VBBV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV", "VVBB","VBBV"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD4": {
+					"AVLDEAD4" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD4",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VBBV","VVBB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV", "VBBV","VVBB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD5": {
+					"AVLDEAD5" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD5",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV", "VVBB","VBBV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV", "VVBB","VBBV"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD6": {
+					"AVLDEAD6" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD6",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV","VBBV", "VBBB","VVBB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VBBV", "VBBB","VVBB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLDEAD7": {
+					"AVLDEAD7" : {
 						"animation" : "spoiled_land-decorations/trees/AVLDEAD7",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVV","VVBB", "VBBB","VBBV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVV","VVBB", "VBBB","VBBV"],
+						"allowedTerrains" : ["spoiledLand"]
 					}				
 				}
 			}

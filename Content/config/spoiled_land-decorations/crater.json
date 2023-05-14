@@ -1,19 +1,19 @@
 {
-	"core:crater": {
-		"types": {
-			"spoiledLandCrater01": {
+	"core:crater" : {
+		"types" : {
+			"spoiledLandCrater01" : {
 				"name" : "Crater",
-				"rmg": {
-					"zoneLimit" : 6,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 150
+					"rarity" : 150,
+					"zoneLimit" : 6
 				},
-				"templates": {
-					"AVLctrl0": {
+				"templates" : {
+					"AVLctrl0" : {
 						"animation" : "spoiled_land-decorations/craters/AVLctrl0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

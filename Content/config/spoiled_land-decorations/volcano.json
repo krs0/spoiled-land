@@ -1,43 +1,43 @@
 {
-	"core:volcano": {
-		"types": {
-			"spoiledLandVolcano01": {
+	"core:volcano" : {
+		"types" : {
+			"spoiledLandVolcano01" : {
 				"name" : "Volcano",
-				"rmg": {
-					"zoneLimit" : 4,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 4
 				},
-				"templates": {
-					"AVLvol10": {
+				"templates" : {
+					"AVLvol10" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol10",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLvol20": {
+					"AVLvol20" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol20",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLvol30": {
+					"AVLvol30" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol30",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "BBB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VVV", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLvol40": {
+					"AVLvol40" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol40",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "BBB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "BBB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLvol50": {
+					"AVLvol50" : {
 						"animation" : "spoiled_land-decorations/volcano/AVLvol50",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVVV","VVVVV","VVVVV","VBBBV", "VBBBV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVVV","VVVVV","VVVVV","VBBBV", "VBBBV"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

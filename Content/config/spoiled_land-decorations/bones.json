@@ -1,74 +1,73 @@
 {
-	"spoiledLand-spoiledLandSkull01": {
-		"handler" : "static",
+	"spoiledLand-spoiledLandSkull01" : {
 		"name" : "Bones",
-		"types":
-		{
-			"spoiledLandSkull01": {
+		"handler" : "static",
+		"types" : {
+			"spoiledLandSkull01" : {
 				"name" : "Bones",
-				"rmg": {
-					"zoneLimit" : 5,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 5
 				},
-				"templates": {
-					"AVLbon00": {
+				"templates" : {
+					"AVLbon00" : {
 						"animation" : "spoiled_land-decorations/bones/AVLbon00",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLbon01": {
+					"AVLbon01" : {
 						"animation" : "spoiled_land-decorations/bones/AVLbon01",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},					
-					"AVLbon02": {
+					"AVLbon02" : {
 						"animation" : "spoiled_land-decorations/bones/AVLbon02",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					},											
-					"AVLbon03": {
+					"AVLbon03" : {
 						"animation" : "spoiled_land-decorations/bones/AVLbon03",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVVVV","VBBBV","VVVVV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVVVV","VBBBV","VVVVV"],
+						"allowedTerrains" : ["spoiledLand"]
 					},		
-					"jaws": {
+					"jaws" : {
 						"animation" : "spoiled_land-decorations/bones/jaws",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["BB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["BB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}						
 				}
 			},
-			"spoiledLandSkull02": {
+			"spoiledLandSkull02" : {
 				"name" : "Skull",
-				"rmg": {
-					"zoneLimit" : 10,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 10
 				},
-				"templates": {
-					"AVLskul0": {
+				"templates" : {
+					"AVLskul0" : {
 						"animation" : "spoiled_land-decorations/bones/AVLskul0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"AVLskul1": {
+					"AVLskul1" : {
 						"animation" : "spoiled_land-decorations/bones/AVLskul1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
 					},	
-					"AVLskul2": {
+					"AVLskul2" : {
 						"animation" : "spoiled_land-decorations/bones/AVLskul2",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["B"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["B"],
+						"allowedTerrains" : ["spoiledLand"]
 					}					
 				}
 			}			
