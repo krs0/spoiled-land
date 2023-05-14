@@ -1,23 +1,17 @@
 {
-	"core:campfire": {
-		"types": {
-			"spoiledLandCampFire01": {
-				"rmg": {
+	"core:campfire" : {
+		"types" : {
+			"spoiledLandCampFire01" : {
+				"rmg" : {
 					"value" : 2000,
 					"rarity" : 500
 				},
-				"templates": {
-					"FTRCF008": {
+				"templates" : {
+					"FTRCF008" : {
 						"animation" : "spoiled_land-objects/campFire/FTRCF008",
-						"visitableFrom": [
-							"+++",
-							"+++",
-							"+++"
-						],
-						"mask": [
-							"VA"
-						],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

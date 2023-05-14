@@ -1,19 +1,19 @@
 {
-	"core:prison": {
-		"types": {
-			"spoiledLandPrison1": {
+	"core:prison" : {
+		"types" : {
+			"spoiledLandPrison1" : {
 				"name" : "Prison",
-				"rmg": {
-					"zoneLimit" : 2,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 60
+					"rarity" : 60,
+					"zoneLimit" : 2
 				},
-				"templates": {
-					"spoiledLandPrison1": {
+				"templates" : {
+					"spoiledLandPrison1" : {
 						"animation" : "spoiled_land-objects/prison/AVXprsn1",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VAV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VAV"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

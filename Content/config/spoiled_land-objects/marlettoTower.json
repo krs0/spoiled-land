@@ -1,19 +1,19 @@
 {
-	"core:marlettoTower": {
-		"types": {
-			"spoiledLandMarlettoTower01": {
+	"core:marlettoTower" : {
+		"types" : {
+			"spoiledLandMarlettoTower01" : {
 				"name" : "Marletto Tower",
-				"rmg": {
+				"rmg" : {
 					"value" : 1500,
 					"rarity" : 100,
 					"zoneLimit" : 3
 				},
-				"templates": {
-					"OBJ4445": {
+				"templates" : {
+					"OBJ4445" : {
 						"animation" : "spoiled_land-objects/marlettoTower/OBJ4445",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVB", "VVV", "VAB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVB", "VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

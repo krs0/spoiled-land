@@ -1,19 +1,19 @@
 {
-	"core:hillFort": {
-		"types": {
-			"spoiledLandHillFort1": {
+	"core:hillFort" : {
+		"types" : {
+			"spoiledLandHillFort1" : {
 				"name" : "Hill Fort",
-				"rmg": {
-					"zoneLimit" : 1,
+				"rmg" : {
 					"value" : 7000,
-					"rarity" : 20
+					"rarity" : 20,
+					"zoneLimit" : 1
 				},
-				"templates": {
-					"ZZMM3": {
+				"templates" : {
+					"ZZMM3" : {
 						"animation" : "spoiled_land-objects/hillfort/ZZMM3",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBB", "VBA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VBB", "VBA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

@@ -1,24 +1,24 @@
 {
-	"core:treasureChest": {
-		"types": {
-			"spoiledLandTreasureChest01": {
-				"rmg": {
+	"core:treasureChest" : {
+		"types" : {
+			"spoiledLandTreasureChest01" : {
+				"name" : "Treasure Chest",
+				"rmg" : {
 					"value" : 1500,
 					"rarity" : 1000
 				},
-				"name" : "Treasure Chest",
-				"templates": {
-					"FTRBC003": {
+				"templates" : {
+					"FTRBC003" : {
 						"animation" : "spoiled_land-objects/treasureChest/FTRBC003",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"FTRBC008": {
+					"FTRBC008" : {
 						"animation" : "spoiled_land-objects/treasureChest/FTRBC008",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "BA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "BA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

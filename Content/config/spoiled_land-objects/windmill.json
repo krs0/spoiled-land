@@ -1,19 +1,19 @@
 {
 
-	"core:windmill": {
-		"types": {
-			"spoiledLandWindmill1": {
+	"core:windmill" : {
+		"types" : {
+			"spoiledLandWindmill1" : {
 				"name" : "Windmill",
-				"rmg": {
+				"rmg" : {
 					"value" : 1500,
 					"rarity" : 80
 				},
-				"templates": {
-					"OBJ5128": {
+				"templates" : {
+					"OBJ5128" : {
 						"animation" : "spoiled_land-objects/windmill/OBJ5128",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VBV", "BBB", "VAV"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VBV", "BBB", "VAV"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

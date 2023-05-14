@@ -1,19 +1,19 @@
 {
-	"core:coverOfDarkness": {
-		"types": {
-			"spoiledLandCoverOfDarkness01": {
+	"core:coverOfDarkness" : {
+		"types" : {
+			"spoiledLandCoverOfDarkness01" : {
 				"name" : "Cover of Darkness",
-				"rmg": {
-					"zoneLimit" : 1,
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 60
+					"rarity" : 60,
+					"zoneLimit" : 1
 				},
-				"templates": {
-					"FSAF0020": {
+				"templates" : {
+					"FSAF0020" : {
 						"animation" : "spoiled_land-objects/coverOfDarkness/avxcovr0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VAB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

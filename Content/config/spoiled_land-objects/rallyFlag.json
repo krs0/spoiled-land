@@ -1,18 +1,18 @@
 {
-	"core:rallyFlag": {
-		"types": {
-			"spoiledLandRallyFlag01": {
-				"rmg": {
+	"core:rallyFlag" : {
+		"types" : {
+			"spoiledLandRallyFlag01" : {
+				"rmg" : {
 					"value" : 100,
 					"rarity" : 100,
 					"zoneLimit" : 1
 				},
-				"templates": {
-					"AVXRLLY0": {
+				"templates" : {
+					"AVXRLLY0" : {
 						"animation" : "spoiled_land-objects/rallyFlag/AVXRLLY0",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VAB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

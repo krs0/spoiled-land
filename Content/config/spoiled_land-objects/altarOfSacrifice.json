@@ -1,17 +1,17 @@
 {
-	"core:altarOfSacrifice": {
-		"types": {
-			"spoiledLandAltarOfSacrifice01": {
-				"rmg": {
+	"core:altarOfSacrifice" : {
+		"types" : {
+			"spoiledLandAltarOfSacrifice01" : {
+				"rmg" : {
 					"value" : 100,
 					"rarity" : 100
 				},
-				"templates": {
-					"AvXAltar": {
+				"templates" : {
+					"AvXAltar" : {
 						"animation" : "spoiled_land-objects/altarOfSacrifice/AvXAltar",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VBA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VBA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

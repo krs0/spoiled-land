@@ -1,18 +1,18 @@
 {
-	"core:blackMarket": {
-		"types": {
-			"spoiledLandBlackMarket01": {
-				"rmg": {
-					"zoneLimit" : 1,
+	"core:blackMarket" : {
+		"types" : {
+			"spoiledLandBlackMarket01" : {
+				"rmg" : {
 					"value" : 100,
-					"rarity" : 100
+					"rarity" : 100,
+					"zoneLimit" : 1
 				},
-				"templates": {
-					"AVXMKTB3": {
+				"templates" : {
+					"AVXMKTB3" : {
 						"animation" : "spoiled_land-objects/blackMarket/AVXMKTB3",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "BBA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "BBA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}						
 				}
 			}

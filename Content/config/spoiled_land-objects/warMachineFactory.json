@@ -1,26 +1,19 @@
 {
-	"core:warMachineFactory": {
-		"types": {
-			"spoiledLandWarMachineFactory01": {
+	"core:warMachineFactory" : {
+		"types" : {
+			"spoiledLandWarMachineFactory01" : {
 				"name" : "War Machines Factory",
-				"rmg": {
-					"zoneLimit" : 1,
+				"rmg" : {
 					"value" : 1500,
-					"rarity" : 50
+					"rarity" : 50,
+					"zoneLimit" : 1
 				},
-				"templates": {
-					"FALF0225": {
+				"templates" : {
+					"FALF0225" : {
 						"animation" : "spoiled_land-objects/warMachineFactory/FALF0225",
-						"visitableFrom": [
-							"---",
-							"+++",
-							"+++"
-						],
-						"mask": [
-							"VVV",
-							"VAB"
-						],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

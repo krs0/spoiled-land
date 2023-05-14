@@ -1,18 +1,18 @@
 {
-	"core:learningStone": {
-		"types": {
-			"spoiledLandLearningStone01": {
+	"core:learningStone" : {
+		"types" : {
+			"spoiledLandLearningStone01" : {
 				"name" : "Learning Stone",
-				"rmg": {
+				"rmg" : {
 					"value" : 1500,
 					"rarity" : 200
 				},
-				"templates": {
-					"FALF0248": {
+				"templates" : {
+					"FALF0248" : {
 						"animation" : "spoiled_land-objects/learningStone/FALF0248",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}					
 				}
 			}

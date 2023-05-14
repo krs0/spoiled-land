@@ -1,18 +1,18 @@
 {
-	"core:treeOfKnowledge": {
-		"types": {
-			"spoiledLandTreeOfKnowledge01": {
-				"rmg": {
-					"mapLimit" : 100,
+	"core:treeOfKnowledge" : {
+		"types" : {
+			"spoiledLandTreeOfKnowledge01" : {
+				"rmg" : {
 					"value" : 2500,
-					"rarity" : 50
+					"rarity" : 50,
+					"mapLimit" : 100
 				},
-				"templates": {
-					"OBJ3302": {
+				"templates" : {
+					"OBJ3302" : {
 						"animation" : "spoiled_land-objects/treeOfKnowledge/OBJ3299",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VVV", "VVV", "VAB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VVV", "VVV", "VAB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

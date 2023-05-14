@@ -1,19 +1,19 @@
 {
-	"core:garrisonVertical": {
-		"types": {
-			"spoiledLandVerticalGarrizon01": {
-				"name" : "Garrizon",
-				"rmg": {
-					"zoneLimit" : 1,
+	"core:garrisonVertical" : {
+		"types" : {
+			"spoiledLandVerticalGarrizon01" : {
+				"name" : "Garrison",
+				"rmg" : {
 					"value" : 1000,
-					"rarity" : 80
+					"rarity" : 80,
+					"zoneLimit" : 1
 				},
-				"templates": {
-					"FALF0233": {
+				"templates" : {
+					"FALF0233" : {
 						"animation" : "spoiled_land-objects/verticalGarrizon/FALF0233",
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VB", "VA", "VB"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "+++", "+++"],
+						"mask" : ["VV", "VB", "VA", "VB"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}
