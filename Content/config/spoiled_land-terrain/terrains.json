@@ -1,19 +1,19 @@
 {
 	 "spoiledLand" :
 	 {
-		 "text" : "Spoiled Land",
-		 "moveCost" : 90,
-		 "minimapUnblocked" : [ 74, 73, 74 ],
-		 "minimapBlocked"   : [ 41, 40, 41 ],
-		 "music" : "spoiledLand/d_openin.ogg",
-		 "tiles" : "spoiled_land-terrain/PLTU",
-		 "shortIdentifier" : "jf",
-		 "river" : "spoiledLandToxicWaterRiver",
-		 "battleFields" : ["spoiled_land_back1"],
-		 "terrainViewPatterns" : "normal",
-		 "type":["LAND"],
-		 "rockTerrain" : "rock",
-		 "horseSoundPenalty" : "",
-		 "horseSound" : ""    //"horseSoundId" : 7
+		"type":["LAND"],
+		"text" : "Spoiled Land",
+		"shortIdentifier" : "jf",
+		"moveCost" : 90,
+		"tiles" : "spoiled_land-terrain/PLTU",
+		"river" : "spoiledLandToxicWaterRiver",
+		"rockTerrain" : "rock",
+		"battleFields" : ["spoiled_land_back1"],
+		"terrainViewPatterns" : "normal",
+		"minimapUnblocked" : [ 74, 73, 74 ],
+		"minimapBlocked"   : [ 41, 40, 41 ],
+		"horseSound" : "",  //"horseSoundId" : 7
+		"horseSoundPenalty" : "",
+		"music" : "spoiledLand/d_openin.ogg"
 	 }
 }

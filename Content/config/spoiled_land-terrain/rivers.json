@@ -1,10 +1,9 @@
 {
-    "spoiledLandToxicWaterRiver":
-    {
+    "spoiledLandToxicWaterRiver" : {
       // "originalRiverId" : 1,
+      "text" : "Toxic River",
       "shortIdentifier" : "pw", //must be 2 characters
       "tilesFilename" : "spoiled_land-decorations/lavaDelta/Lavrvr.def",
-      "delta" : "spoiled_land-decorations/lavaDelta/lavdelt",
-      "text" : "Toxic River"		
+      "delta" : "spoiled_land-decorations/lavaDelta/lavdelt"
     }
 }

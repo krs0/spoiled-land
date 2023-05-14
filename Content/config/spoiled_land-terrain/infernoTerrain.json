@@ -1,6 +1,5 @@
 {
-	"core:inferno" :
-	{
+	"core:inferno" : {
 		"nativeTerrain" : "spoiledLand"
 	}
 }
