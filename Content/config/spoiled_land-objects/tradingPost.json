@@ -1,19 +1,13 @@
 {
-	"core:tradingPost" : {
-		"types" : {
-			"spoiledLandTradingPost01" : {
-				"name" : "Trading Post",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 100,
-					"zoneLimit" : 1
-				},
-				"templates" : {
-					"AVXpost0" : {
+	"core:tradingPost": {
+		"types": {
+			"object": {
+				"templates": {
+					"AVXpost0": {
 						"animation" : "spoiled_land-objects/tradingPost/AVXpost0",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVV", "VVV", "VBA"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "-+-", "+++"],
+						"mask": ["VVV", "VVV", "VBA"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

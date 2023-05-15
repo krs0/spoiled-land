@@ -1,23 +1,18 @@
 {
     "name" : "Spoiled Land Terrain",
     "description" : "Spoiled Land Terrain",
-	"modType" : "Objects",
-    "version" : "0.0.2",
+    "version" : "1.0",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
+    "modType" : "Graphical",
 	"compatibility" :
 	{
 		"min" : "1.2.0"
 	},
-	"conflicts" :
+	"battlefields":
 	[
-
+		"config/spoiled_land-terrain/battlefields.json"
 	],
-	"changelog" :
-	{
-		"0.0.2"   : [ "Update for VCMI 1.2" ],
-		"0.0.1"   : [ "Initial release" ]
-	},
 	"terrains":
 	[
 		"config/spoiled_land-terrain/terrains.json"
@@ -26,9 +21,8 @@
 	[
 		"config/spoiled_land-terrain/rivers.json"
 	],
-	"battlefields":
-	[
-		"config/spoiled_land-battlefields/battles_graphics.json"
+	"obstacles" :
+	[	
 	],
 	"objects":
 	[
@@ -40,6 +34,7 @@
 		"config/spoiled_land-decorations/mountain.json",
 		"config/spoiled_land-decorations/trees.json",
 		"config/spoiled_land-decorations/volcano.json",
+		"config/spoiled_land-objects/deltas.json",
 		"config/spoiled_land-objects/hillFort.json",
 		"config/spoiled_land-objects/abandonedMine.json",
 		"config/spoiled_land-objects/altarOfSacrifice.json",

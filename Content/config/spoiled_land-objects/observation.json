@@ -1,19 +1,13 @@
 {
-	"core:redwoodObservatory" : {
-		"types" : {
-			"spoiledLandObservation01" : {
-				"name" : "Watch Tower",
-				"rmg" : {
-					"value" : 1200,
-					"rarity" : 300,
-					"zoneLimit" : 1
-				},
-				"templates" : {
-					"FALF0104" : {
+	"core:redwoodObservatory": {
+		"types": {
+			"object": {
+				"templates": {
+					"FALF0104": {
 						"animation" : "spoiled_land-objects/observation/FALF0104",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVVV", "VVVV", "VVBV", "VVAV"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV", "VVVV", "VVBV", "VVAV"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

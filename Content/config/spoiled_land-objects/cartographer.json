@@ -1,19 +1,14 @@
 {
-	"core:cartographer" : {
-		"types" : {
-			"spoiledLandCartographer01" : {
+	"core:cartographer": {
+		"types": {
+			"land": {
 				"name" : "Cartographer",
-				"rmg" : {
-					"value" : 10000,
-					"rarity" : 20,
-					"mapLimit" : 2
-				},
-				"templates" : {
-					"FSUF0001" : {
+				"templates": {
+					"FSUF0001": {
 						"animation" : "spoiled_land-objects/cartographer/FSUF0001",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVV", "VVV", "ABB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "-+-", "+++"],
+						"mask": ["VVV", "VVV", "ABB"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

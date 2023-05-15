@@ -5,19 +5,19 @@
 				"templates": {
 					"spoiledLandObelisk01": {
 						"animation" : "spoiled_land-special/obelisks/AVOBL036",  
-						"visitableFrom": ["---", "+++", "+++"],
+						"visitableFrom": ["---", "-+-", "+++"],
 						"mask": ["VV", "VA"],
 						"allowedTerrains": ["spoiledLand"]
 					},
 					"spoiledLandObelisk02": {
 						"animation" : "spoiled_land-special/obelisks/AVOBL016",  
-						"visitableFrom": ["---", "+++", "+++"],
+						"visitableFrom": ["---", "-+-", "+++"],
 						"mask": ["VV", "VA"],
 						"allowedTerrains": ["spoiledLand"]
 					},				
  					"spoiledLandObelisk03": {
 						"animation" : "spoiled_land-special/obelisks/TPSALA",  
-						"visitableFrom": ["---", "+++", "+++"],
+						"visitableFrom": ["---", "-+-", "+++"],
 						"mask": ["VV", "VA"],
 						"allowedTerrains": ["spoiledLand"]
 					}

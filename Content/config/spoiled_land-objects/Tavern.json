@@ -1,19 +1,13 @@
 {
-	"core:tavern" : {
-		"types" : {
-			"spoiledLandTavernOBJ0782" : {
-				"name" : "Tavern",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 20,
-					"zoneLimit" : 1
-				},
-				"templates" : {
-					"OBJ8966" : {
+	"core:tavern": {
+		"types": {
+			"object": {
+				"templates": {
+					"OBJ8966": {
 						"animation" : "spoiled_land-objects/tavern/OBJ8966",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVV", "VVV", "VBB", "VAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "-+-", "+++"],
+						"mask": ["VVV", "VVV", "VBB", "VAB"],
+						"allowedTerrains": ["spoiledLand"]
 					} 
 				}
 			}

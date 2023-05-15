@@ -1,19 +1,13 @@
 {
-	"core:eyeOfTheMagi" : {
-		"types" : {
-			"spoiledLandEyeOfTheMagi01" : {
-				"name" : "Eye Of The Magi",
-				"rmg" : {
-					"value" : 2500,
-					"rarity" : 50,
-					"zoneLimit" : 1
-				},
-				"templates" : {
-					"FALF0188" : {
+	"core:eyeOfTheMagi": {
+		"types": {
+			"object": {
+				"templates": {
+					"FALF0188": {
 						"animation" : "spoiled_land-objects/eyeOfTheMagi/FALF0188",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VV", "VB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "-+-", "+++"],
+						"mask": ["VV", "VB"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

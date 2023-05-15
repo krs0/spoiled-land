@@ -1,18 +1,13 @@
 {
-	"core:abandonedMine" : {
-		"types" : {
-			"spoiledLandAbandonedMine01" : {
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 60,
-					"zoneLimit" : 1
-				},
+	"core:abandonedMine": {
+		"types": {
+			"mine": {
 				"templates": {
-					"AVXamLV" : {
+					"AVXamLV": {
 						"animation" : "spoiled_land-objects/abandonedMine/AVXamLV",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVVV","VVVV", "VBAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VVVV","VVVV", "VBAB"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}

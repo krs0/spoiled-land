@@ -1,19 +1,13 @@
 {
-	"core:witchHut" : {
-		"types" : {
-			"spoiledLandWitchHut01" : {
-				"name" : "Witch Hut",
-				"rmg" : {
-					"value" : 1500,
-					"rarity" : 80,
-					"zoneLimit" : 3
-				},
-				"templates" : {
-					"FALF0093" : {
+	"core:witchHut": {
+		"types": {
+			"object": {
+				"templates": {
+					"FALF0093": {
 						"animation" : "spoiled_land-objects/witchHut/FALF0093",
-						"visitableFrom" : ["---", "+++", "+++"],
-						"mask" : ["VVVV", "VVVV", "VVVV", "VVAB"],
-						"allowedTerrains" : ["spoiledLand"]
+						"visitableFrom": ["---", "-+-", "+++"],
+						"mask": ["VVVV", "VVVV", "VVVV", "VVAB"],
+						"allowedTerrains": ["spoiledLand"]
 					}
 				}
 			}
