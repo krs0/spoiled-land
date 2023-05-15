@@ -1,169 +1,136 @@
 {
-	"spoiledLand-spoiledLandToxicLiquid01" : {
-		"name" : "Toxic Liquid",
-		"handler" : "static",
+	"core:lavaFlow" : {
 		"types" : {
 			"spoiledLandToxicLiquid01" : {
 				"name" : "Toxic Liquid",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 100,
-					"zoneLimit" : 9
-				},
 				"templates" : {
 					"AVLlav10" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav10",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlav20" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav20",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["VBB", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlav30" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav30",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BBBBBB", "BBBBBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlav40" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav40",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BBB", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlav50" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav50",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BBB", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlav60" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav60",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},					
 					"AVLlav70" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav70",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},						
 					"AVLlav80" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav80",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},					
 					"AVLlav90" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlav90",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BBB", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},						
 					"AVLlv100" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv100",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BBB", "BBB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},	
 					"AVLlv110" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv110",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB", "BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},	
 					"AVLlv120" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv120",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},	
 					"AVLlv130" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv130",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv140" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv140",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv150" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv150",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv160" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv160",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv170" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv170",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},					
 					"AVLlv180" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv180",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB","BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},	
 					"AVLlv190" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv190",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB","BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv200" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv200",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB","BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv210" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv210",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv220" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv220",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv230" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv230",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B","B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv240" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv240",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv250" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv250",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["B","B"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLlv260" : {
 						"animation" : "spoiled_land-decorations/lakes/AVLlv260",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

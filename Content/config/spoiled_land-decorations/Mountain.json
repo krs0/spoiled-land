@@ -1,47 +1,35 @@
 {
 	"core:mountain" : {
 		"types" : {
-			"spoiledLandMountains01" : {
-				"name" : "Mountains",
-				"rmg" : {
-					"zoneLimit" : 15,
-					"value" : 100,
-					"rarity" : 150
-				},
+			"object" : {
 				"templates" : {
 					"AVLMTVO1" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO1",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["VVVVV", "BBBBV", "BBBBBB", "VVBBB"],
 							"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLMTVO2" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO2",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["VVVVV", "VVBBB", "BBBBB", "BBBVV"],
 							"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLMTVO3" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO3",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["VVV", "BBB","VBB"],
 							"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVLMTVO4" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO4",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["VVV", "BBB","BBV"],
 							"allowedTerrains" : ["spoiledLand"]
 					},					
 					"AVLMTVO5" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO5",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["BBV", "VBB"],
 							"allowedTerrains" : ["spoiledLand"]
 					},						
 					"AVLMTVO6" : {
 						"animation" : "spoiled_land-decorations/mountains/AVLMTVO6",
-							"visitableFrom" : ["---", "+++", "+++"],
 							"mask" : ["VBB", "BBV"],
 							"allowedTerrains" : ["spoiledLand"]
 					}						

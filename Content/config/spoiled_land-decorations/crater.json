@@ -1,17 +1,10 @@
 {
 	"core:crater" : {
 		"types" : {
-			"spoiledLandCrater01" : {
-				"name" : "Crater",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 150,
-					"zoneLimit" : 6
-				},
+			"object": {
 				"templates" : {
 					"AVLctrl0" : {
 						"animation" : "spoiled_land-decorations/craters/AVLctrl0",
-						"visitableFrom" : ["---", "+++", "+++"],
 						"mask" : ["BB"],
 						"allowedTerrains" : ["spoiledLand"]
 					}
