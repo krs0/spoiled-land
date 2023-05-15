@@ -1,539 +1,529 @@
 {
-	"core:resource": {
-		"types": {
-			"wood": {
-				"templates": {
-					"spoiledLandFTRWO001": {
+	"core:resource" : {
+		"types" : {
+			"wood" : {
+				"templates" : {
+					"spoiledLandFTRWO001" : {
 						"animation" : "spoiled_land-special/resources/FTRWO001",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO005": {
+					"spoiledLandFTRWO005" : {
 						"animation" : "spoiled_land-special/resources/FTRWO005",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO007": {
+					"spoiledLandFTRWO007" : {
 						"animation" : "spoiled_land-special/resources/FTRWO007",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO009": {
+					"spoiledLandFTRWO009" : {
 						"animation" : "spoiled_land-special/resources/FTRWO009",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO011": {
+					"spoiledLandFTRWO011" : {
 						"animation" : "spoiled_land-special/resources/FTRWO011",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO013": {
+					"spoiledLandFTRWO013" : {
 						"animation" : "spoiled_land-special/resources/FTRWO013",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO025": {
+					"spoiledLandFTRWO025" : {
 						"animation" : "spoiled_land-special/resources/FTRWO25",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRWO028": {
+					"spoiledLandFTRWO028" : {
 						"animation" : "spoiled_land-special/resources/FTRWO28",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			},
-			"mercury": {
-				"templates": {
-					"spoiledLandFTRME001": {
+			"mercury" : {
+				"templates" : {
+					"spoiledLandFTRME001" : {
 						"animation" : "spoiled_land-special/resources/FTRME001",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRME003": {
+					"spoiledLandFTRME003" : {
 						"animation" : "spoiled_land-special/resources/FTRME003",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRME004": {
+					"spoiledLandFTRME004" : {
 						"animation" : "spoiled_land-special/resources/FTRME004",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					} 
 				}
 			},
-			"ore": {
-				"templates": {
-					"spoiledLandFTROR001": {
+			"ore" : {
+				"templates" : {
+					"spoiledLandFTROR001" : {
 						"animation" : "spoiled_land-special/resources/FTROR001",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR002": {
+					"spoiledLandFTROR002" : {
 						"animation" : "spoiled_land-special/resources/FTROR002",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR003": {
+					"spoiledLandFTROR003" : {
 						"animation" : "spoiled_land-special/resources/FTROR003",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR004": {
+					"spoiledLandFTROR004" : {
 						"animation" : "spoiled_land-special/resources/FTROR004",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR005": {
+					"spoiledLandFTROR005" : {
 						"animation" : "spoiled_land-special/resources/FTROR005",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR006": {
+					"spoiledLandFTROR006" : {
 						"animation" : "spoiled_land-special/resources/FTROR006",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR007": {
+					"spoiledLandFTROR007" : {
 						"animation" : "spoiled_land-special/resources/FTROR007",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR008": {
+					"spoiledLandFTROR008" : {
 						"animation" : "spoiled_land-special/resources/FTROR008",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR009": {
+					"spoiledLandFTROR009" : {
 						"animation" : "spoiled_land-special/resources/FTROR009",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR010": {
+					"spoiledLandFTROR010" : {
 						"animation" : "spoiled_land-special/resources/FTROR010",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR011": {
+					"spoiledLandFTROR011" : {
 						"animation" : "spoiled_land-special/resources/FTROR011",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR012": {
+					"spoiledLandFTROR012" : {
 						"animation" : "spoiled_land-special/resources/FTROR012",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR013": {
+					"spoiledLandFTROR013" : {
 						"animation" : "spoiled_land-special/resources/FTROR013",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR014": {
+					"spoiledLandFTROR014" : {
 						"animation" : "spoiled_land-special/resources/FTROR014",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR015": {
+					"spoiledLandFTROR015" : {
 						"animation" : "spoiled_land-special/resources/FTROR015",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR016": {
+					"spoiledLandFTROR016" : {
 						"animation" : "spoiled_land-special/resources/FTROR016",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR017": {
+					"spoiledLandFTROR017" : {
 						"animation" : "spoiled_land-special/resources/FTROR017",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR018": {
+					"spoiledLandFTROR018" : {
 						"animation" : "spoiled_land-special/resources/FTROR018",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR019": {
+					"spoiledLandFTROR019" : {
 						"animation" : "spoiled_land-special/resources/FTROR019",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTROR020": {
+					"spoiledLandFTROR020" : {
 						"animation" : "spoiled_land-special/resources/FTROR020",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			},
-			"sulfur": {
-				//"index" : 3,
-				"rmg": {
-					"value" : 2000,
-					"rarity" : 300
-				},
-				"templates": {
-					"spoiledLandFTRSU001": {
+			"sulfur" : {
+				"templates" : {
+					"spoiledLandFTRSU001" : {
 						"animation" : "spoiled_land-special/resources/FTRSU001",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRSU002": {
+					"spoiledLandFTRSU002" : {
 						"animation" : "spoiled_land-special/resources/FTRSU002",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRSU003": {
+					"spoiledLandFTRSU003" : {
 						"animation" : "spoiled_land-special/resources/FTRSU003",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRSU004": {
+					"spoiledLandFTRSU004" : {
 						"animation" : "spoiled_land-special/resources/FTRSU004",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			},
-			"crystal": {
-				"templates": {
-					"spoiledLandFTRCR008": {
+			"crystal" : {
+				"templates" : {
+					"spoiledLandFTRCR008" : {
 						"animation" : "spoiled_land-special/resources/FTRCR008.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR009": {
+					"spoiledLandFTRCR009" : {
 						"animation" : "spoiled_land-special/resources/FTRCR009.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR010": {
+					"spoiledLandFTRCR010" : {
 						"animation" : "spoiled_land-special/resources/FTRCR010.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-
-					"spoiledLandFTRCR011": {
+					"spoiledLandFTRCR011" : {
 						"animation" : "spoiled_land-special/resources/FTRCR011.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR012": {
+					"spoiledLandFTRCR012" : {
 						"animation" : "spoiled_land-special/resources/FTRCR012.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR013": {
+					"spoiledLandFTRCR013" : {
 						"animation" : "spoiled_land-special/resources/FTRCR013.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR014": {
+					"spoiledLandFTRCR014" : {
 						"animation" : "spoiled_land-special/resources/FTRCR014.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-
-					"spoiledLandFTRCR029": {
+					"spoiledLandFTRCR029" : {
 						"animation" : "spoiled_land-special/resources/FTRCR029.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR030": {
+					"spoiledLandFTRCR030" : {
 						"animation" : "spoiled_land-special/resources/FTRCR030.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR031": {
+					"spoiledLandFTRCR031" : {
 						"animation" : "spoiled_land-special/resources/FTRCR031.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR032": {
+					"spoiledLandFTRCR032" : {
 						"animation" : "spoiled_land-special/resources/FTRCR032.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR033": {
+					"spoiledLandFTRCR033" : {
 						"animation" : "spoiled_land-special/resources/FTRCR033.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR034": {
+					"spoiledLandFTRCR034" : {
 						"animation" : "spoiled_land-special/resources/FTRCR034.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRCR035": {
+					"spoiledLandFTRCR035" : {
 						"animation" : "spoiled_land-special/resources/FTRCR035.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-
-					"spoiledLandFTRCR048": {
+					"spoiledLandFTRCR048" : {
 						"animation" : "spoiled_land-special/resources/FTRCR048.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			},
-			"gems": {
-				"templates": {
-					"spoiledLandFTRGE019": {
+			"gems" : {
+				"templates" : {
+					"spoiledLandFTRGE019" : {
 						"animation" : "spoiled_land-special/resources/FTRGE019.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE020": {
+					"spoiledLandFTRGE020" : {
 						"animation" : "spoiled_land-special/resources/FTRGE020.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE021": {
+					"spoiledLandFTRGE021" : {
 						"animation" : "spoiled_land-special/resources/FTRGE021.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE022": {
+					"spoiledLandFTRGE022" : {
 						"animation" : "spoiled_land-special/resources/FTRGE022.def",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE023": {
+					"spoiledLandFTRGE023" : {
 						"animation" : "spoiled_land-special/resources/FTRGE023",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-
-					"spoiledLandFTRGE024": {
+					"spoiledLandFTRGE024" : {
 						"animation" : "spoiled_land-special/resources/FTRGE024",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE025": {
+					"spoiledLandFTRGE025" : {
 						"animation" : "spoiled_land-special/resources/FTRGE025",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE026": {
+					"spoiledLandFTRGE026" : {
 						"animation" : "spoiled_land-special/resources/FTRGE026",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
- 
-					"spoiledLandFTRGE066": {
+					"spoiledLandFTRGE066" : {
 						"animation" : "spoiled_land-special/resources/FTRGE066",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE067": {
+					"spoiledLandFTRGE067" : {
 						"animation" : "spoiled_land-special/resources/FTRGE067",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGE068": {
+					"spoiledLandFTRGE068" : {
 						"animation" : "spoiled_land-special/resources/FTRGE068",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			},
-			"gold": {
-				"templates": {
-					"spoiledLandFTRGO001": {
+			"gold" : {
+				"templates" : {
+					"spoiledLandFTRGO001" : {
 						"animation" : "spoiled_land-special/resources/FTRGO001",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO002": {
+					"spoiledLandFTRGO002" : {
 						"animation" : "spoiled_land-special/resources/FTRGO002",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO003": {
+					"spoiledLandFTRGO003" : {
 						"animation" : "spoiled_land-special/resources/FTRGO003",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO004": {
+					"spoiledLandFTRGO004" : {
 						"animation" : "spoiled_land-special/resources/FTRGO004",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO005": {
+					"spoiledLandFTRGO005" : {
 						"animation" : "spoiled_land-special/resources/FTRGO005",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO006": {
+					"spoiledLandFTRGO006" : {
 						"animation" : "spoiled_land-special/resources/FTRGO006",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO007": {
+					"spoiledLandFTRGO007" : {
 						"animation" : "spoiled_land-special/resources/FTRGO007",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO008": {
+					"spoiledLandFTRGO008" : {
 						"animation" : "spoiled_land-special/resources/FTRGO008",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO009": {
+					"spoiledLandFTRGO009" : {
 						"animation" : "spoiled_land-special/resources/FTRGO009",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO010": {
+					"spoiledLandFTRGO010" : {
 						"animation" : "spoiled_land-special/resources/FTRGO010",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO011": {
+					"spoiledLandFTRGO011" : {
 						"animation" : "spoiled_land-special/resources/FTRGO011",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO012": {
+					"spoiledLandFTRGO012" : {
 						"animation" : "spoiled_land-special/resources/FTRGO012",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO013": {
+					"spoiledLandFTRGO013" : {
 						"animation" : "spoiled_land-special/resources/FTRGO013",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO014": {
+					"spoiledLandFTRGO014" : {
 						"animation" : "spoiled_land-special/resources/FTRGO014",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO015": {
+					"spoiledLandFTRGO015" : {
 						"animation" : "spoiled_land-special/resources/FTRGO015",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO016": {
+					"spoiledLandFTRGO016" : {
 						"animation" : "spoiled_land-special/resources/FTRGO016",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO017": {
+					"spoiledLandFTRGO017" : {
 						"animation" : "spoiled_land-special/resources/FTRGO017",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO018": {
+					"spoiledLandFTRGO018" : {
 						"animation" : "spoiled_land-special/resources/FTRGO018",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO019": {
+					"spoiledLandFTRGO019" : {
 						"animation" : "spoiled_land-special/resources/FTRGO019",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO020": {
+					"spoiledLandFTRGO020" : {
 						"animation" : "spoiled_land-special/resources/FTRGO020",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO021": {
+					"spoiledLandFTRGO021" : {
 						"animation" : "spoiled_land-special/resources/FTRGO021",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandFTRGO023": {
+					"spoiledLandFTRGO023" : {
 						"animation" : "spoiled_land-special/resources/FTRGO023",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["+++", "+++", "+++"],
+						"mask" : ["VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}

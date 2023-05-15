@@ -1,25 +1,25 @@
 {
-	"core:obelisk": {
-		"types": {
-			"object": {
-				"templates": {
-					"spoiledLandObelisk01": {
+	"core:obelisk" : {
+		"types" : {
+			"object" : {
+				"templates" : {
+					"spoiledLandObelisk01" : {
 						"animation" : "spoiled_land-special/obelisks/AVOBL036",  
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},
-					"spoiledLandObelisk02": {
+					"spoiledLandObelisk02" : {
 						"animation" : "spoiled_land-special/obelisks/AVOBL016",  
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					},				
- 					"spoiledLandObelisk03": {
+ 					"spoiledLandObelisk03" : {
 						"animation" : "spoiled_land-special/obelisks/TPSALA",  
-						"visitableFrom": ["---", "+++", "+++"],
-						"mask": ["VV", "VA"],
-						"allowedTerrains": ["spoiledLand"]
+						"visitableFrom" : ["---", "-+-", "+++"],
+						"mask" : ["VV", "VA"],
+						"allowedTerrains" : ["spoiledLand"]
 					}
 				}
 			}
