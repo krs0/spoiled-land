@@ -1,7 +1,7 @@
 {
 	 "spoiledLand" :
 	 {
-		"type":["LAND"],
+		"type":["LAND", "SURFACE"],
 		"text" : "Spoiled Land",
 		"shortIdentifier" : "jf",
 		"moveCost" : 90,
