@@ -1,12 +1,7 @@
 {
 	"core:rallyFlag" : {
 		"types" : {
-			"spoiledLandRallyFlag01" : {
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 100,
-					"zoneLimit" : 1
-				},
+			"rallyFlag" : {
 				"templates" : {
 					"AVXRLLY0" : {
 						"animation" : "spoiled_land-objects/rallyFlag/AVXRLLY0",

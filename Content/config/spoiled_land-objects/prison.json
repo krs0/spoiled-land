@@ -1,17 +1,11 @@
 {
 	"core:prison" : {
 		"types" : {
-			"spoiledLandPrison1" : {
-				"name" : "Prison",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 60,
-					"zoneLimit" : 2
-				},
+			"prison" : {
 				"templates" : {
 					"spoiledLandPrison1" : {
 						"animation" : "spoiled_land-objects/prison/AVXprsn1",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VAV"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

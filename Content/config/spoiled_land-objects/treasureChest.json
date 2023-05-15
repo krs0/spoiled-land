@@ -1,12 +1,7 @@
 {
 	"core:treasureChest" : {
 		"types" : {
-			"spoiledLandTreasureChest01" : {
-				"name" : "Treasure Chest",
-				"rmg" : {
-					"value" : 1500,
-					"rarity" : 1000
-				},
+			"treasureChest" : {
 				"templates" : {
 					"FTRBC003" : {
 						"animation" : "spoiled_land-objects/treasureChest/FTRBC003",

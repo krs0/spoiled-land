@@ -1,22 +1,18 @@
 {
 	"core:corpse" : {
 		"types" : {
-			"spoiledLandCorpse01" : {
-				"name" : "Remains",
-				"rmg" : {
-					"value" : 500,
-					"rarity" : 70
-				},
+			"corpse" : {
+				//"name" : "Remains",
 				"templates" : {
 					"AVXskds0" : {
 						"animation" : "spoiled_land-objects/corpse/AVXskds0",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["BA"],
 						"allowedTerrains" : ["spoiledLand"]
 					},
 					"AVXskdsx" : {
 						"animation" : "spoiled_land-objects/corpse/AVXskdsx",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["BA"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

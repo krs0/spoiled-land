@@ -1,17 +1,11 @@
 {
 	"core:coverOfDarkness" : {
 		"types" : {
-			"spoiledLandCoverOfDarkness01" : {
-				"name" : "Cover of Darkness",
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 60,
-					"zoneLimit" : 1
-				},
+			"object" : {
 				"templates" : {
 					"FSAF0020" : {
 						"animation" : "spoiled_land-objects/coverOfDarkness/avxcovr0",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VVV", "VAB"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

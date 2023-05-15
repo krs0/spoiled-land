@@ -1,16 +1,11 @@
 {
 	"core:treeOfKnowledge" : {
 		"types" : {
-			"spoiledLandTreeOfKnowledge01" : {
-				"rmg" : {
-					"value" : 2500,
-					"rarity" : 50,
-					"mapLimit" : 100
-				},
+			"treeOfKnowledge" : {
 				"templates" : {
 					"OBJ3302" : {
 						"animation" : "spoiled_land-objects/treeOfKnowledge/OBJ3299",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VVV", "VAB"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

@@ -1,17 +1,11 @@
 {
 	"core:gardenOfRevelation" : {
 		"types" : {
-			"spoiledLandGardenOfRevelation01" : {
-				"name" : "Garden Of Revelation",
-				"rmg" : {
-					"value" : 1500,
-					"rarity" : 100,
-					"zoneLimit" : 4
-				},
+			"gardenOfRevelation" : {
 				"templates" : {
 					"AVSgrdn0" : {
 						"animation" : "spoiled_land-objects/gardenOfRevelation/AVSgrdn0",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VV","VA"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

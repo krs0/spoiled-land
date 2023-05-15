@@ -1,13 +1,7 @@
 {
 	"core:garrisonVertical" : {
 		"types" : {
-			"spoiledLandVerticalGarrizon01" : {
-				"name" : "Garrison",
-				"rmg" : {
-					"value" : 1000,
-					"rarity" : 80,
-					"zoneLimit" : 1
-				},
+			"normal" : {
 				"templates" : {
 					"FALF0233" : {
 						"animation" : "spoiled_land-objects/verticalGarrizon/FALF0233",

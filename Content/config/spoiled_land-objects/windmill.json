@@ -1,17 +1,11 @@
 {
-
 	"core:windmill" : {
 		"types" : {
-			"spoiledLandWindmill1" : {
-				"name" : "Windmill",
-				"rmg" : {
-					"value" : 1500,
-					"rarity" : 80
-				},
+			"windmill" : {
 				"templates" : {
 					"OBJ5128" : {
 						"animation" : "spoiled_land-objects/windmill/OBJ5128",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VBV", "BBB", "VAV"],
 						"allowedTerrains" : ["spoiledLand"]
 					}

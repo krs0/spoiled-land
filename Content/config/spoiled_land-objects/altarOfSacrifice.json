@@ -1,15 +1,11 @@
 {
 	"core:altarOfSacrifice" : {
 		"types" : {
-			"spoiledLandAltarOfSacrifice01" : {
-				"rmg" : {
-					"value" : 100,
-					"rarity" : 100
-				},
+			"object" : {
 				"templates" : {
 					"AvXAltar" : {
 						"animation" : "spoiled_land-objects/altarOfSacrifice/AvXAltar",
-						"visitableFrom" : ["---", "+++", "+++"],
+						"visitableFrom" : ["---", "-+-", "+++"],
 						"mask" : ["VVV", "VBA"],
 						"allowedTerrains" : ["spoiledLand"]
 					}
