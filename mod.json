@@ -1,14 +1,23 @@
 {
     "name" : "Spoiled Land Terrain",
     "description" : "Spoiled Land Terrain",
-    "version" : "0.0.1",
+	"modType" : "Objects",
+    "version" : "0.0.2",
     "author" : "Noname, Fred79 for objects",
     "contact" : "none",
-    "modType" : "Objects",
-	"battlefields":
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"conflicts" :
 	[
-		"config/spoiled_land-battlefields/battles_graphics.json"
+
 	],
+	"changelog" :
+	{
+		"0.0.2"   : [ "Update for VCMI 1.2" ],
+		"0.0.1"   : [ "Initial release" ]
+	},
 	"terrains":
 	[
 		"config/spoiled_land-terrain/terrains.json"
@@ -17,7 +26,10 @@
 	[
 		"config/spoiled_land-terrain/rivers.json"
 	],
- 
+	"battlefields":
+	[
+		"config/spoiled_land-battlefields/battles_graphics.json"
+	],
 	"objects":
 	[
 		"config/spoiled_land-decorations/bones.json",
