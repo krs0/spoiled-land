@@ -28,7 +28,7 @@
 	],
 	"battlefields":
 	[
-		"config/spoiled_land-battlefields/battle_graphics.json"
+		"config/spoiled_land-battlefields/battlefields.json"
 	],
 	"objects":
 	[
